@@ -1,16 +1,17 @@
-### Hi there 👋
+[vkontakteUrl]: [https://vk.me/soknight](https://vk.com/patronvstvole228)
+[vkontakteBadge]: https://img.shields.io/static/v1?label=vk&message=write&style=for-the-badge&color=0077FF&logo=vk
 
-<!--
-**DarkPowerLands/DarkPowerLands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[telegramUrl]: https://t.me/landsproject
+[telegramBadge]: https://img.shields.io/static/v1?label=telegram&message=write&style=for-the-badge&color=26A5E4&logo=telegram
 
-Here are some ideas to get you started:
+## Hi there 👋🏻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java developer, game creator and other).<br>
+
+[![vkontakteBadge]][vkontakteUrl] [![telegramBadge]][telegramUrl]
+
+### My activity
+<div>  
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=darkpowerlands&show_icons=true&hide_border=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkpowerlands&hide_border=true&theme=material-palenight&langs_count=5"/>
+</div>
